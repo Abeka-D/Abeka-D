@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abeka-D
-- 👀 I’m interested in learning how to build a mobile app
+- 👀 I’m interested in learning all things data analytics 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ways to develop a mobile app
 - 📫 How to reach me my email: daniel.abeka@gmail.com
